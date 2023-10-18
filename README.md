@@ -50,7 +50,7 @@ Webcam com filtros, criada usando javaScript puro.
 Para copiar o projeto, utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/Carregando-imagens-rolando.git
+  ❯ git clone https://github.com/Talison-Miguel/Webcam-Com-Filtros.git
 ```
 
 ---
